@@ -3,3 +3,4 @@ if status is-interactive
 end
 
 set -gx EDITOR nvim
+set -U fish_greeting
